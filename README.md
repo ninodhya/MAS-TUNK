@@ -16,7 +16,7 @@ Participants engaged with a specially designed interactive game, ensuring user f
 
 The dataset includes the following key attributes, each serving a specific purpose in eye movement analysis and gaze estimation:
 
-- **Full Frame Face Capture**: High-resolution images capturing the entire face of participants, providing context for eye movement.
+- **Full Frame Face Capture**: High-resolution images capturing the entire face of participants, providing context for eye movement (Frame-Asli).
 - **Cropped Eyes**: For general analysis, images of eye regions are provided at dimensions of 150x50 pixels. These images require flipping for correct orientation.
 - **Cropped Eyes (Left & Right)**: Detailed crops of each eye, with dimensions of 90x40 pixels, allowing for individual eye movement analysis.
 - **Iris Euclidean Distance**: Includes measurements for the left eye, right eye, and both eyes combined, offering insights into gaze direction and eye orientation.
